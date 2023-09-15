@@ -1,6 +1,7 @@
 package xml2jsonfeed
 
 import (
+	"io/ioutil"
 	"testing"
 	"xml2jsonfeed/help"
 )
@@ -43,5 +44,26 @@ func CheckXmlMemoryLeaks(t *testing.T) {
 	if !help.LibxmlCheckMemoryLeak() {
 		t.Errorf("Memory leaks: %d!!!", help.LibxmlGetMemoryAllocation())
 		help.LibxmlReportMemoryLeak()
+	}
+}
+
+func TestLoadAllNodes(t *testing.T) {
+	input, err := ioutil.ReadFile("./xml/tests/document/rss/input.txt")
+
+	if err != nil {
+		t.Error(err)
+	}
+
+	res, err := ParseXml(input)
+	if err != nil {
+		t.Error(err)
+	}
+	root := res.Root()
+	f, err := root.Search("channel")
+	if err != nil {
+		t.Error(err)
+	}
+	for i := 0; i < len(f); i++ {
+		t.Log(f[i].Name())
 	}
 }
