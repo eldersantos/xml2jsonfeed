@@ -9,9 +9,11 @@ import "C"
 
 import (
 	"errors"
-	"github.com/jbowtie/gokogiri/help"
-	. "github.com/jbowtie/gokogiri/util"
-	"github.com/jbowtie/gokogiri/xpath"
+
+	"xml2jsonfeed/help"
+	. "xml2jsonfeed/util"
+	"xml2jsonfeed/xpath"
+
 	"os"
 	"unsafe"
 )

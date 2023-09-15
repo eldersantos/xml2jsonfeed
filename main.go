@@ -5,11 +5,10 @@ It is inspired by the ruby-based Nokogiri API, and allows one to parse, manipula
 documents. Nodes can be selected using either CSS selectors (in much the same fashion as jQuery) or XPath 1.0 expressions,
 and a simple DOM-like inteface allows for building up documents from scratch.
 */
-package gokogiri
+package xml2jsonfeed
 
 import (
-	"github.com/jbowtie/gokogiri/html"
-	"github.com/jbowtie/gokogiri/xml"
+	"xml2jsonfeed/xml"
 )
 
 /*
@@ -18,9 +17,6 @@ errors or warnings, making it suitable for the poorly-formed 'tag soup' often fo
 
 If the content is not UTF-8 encoded or you want to customize the parsing options, you should call html.Parse directly.
 */
-func ParseHtml(content []byte) (doc *html.HtmlDocument, err error) {
-	return html.Parse(content, html.DefaultEncodingBytes, nil, html.DefaultParseOption, html.DefaultEncodingBytes)
-}
 
 /*
 ParseXml parses an UTF-8 encoded byte array and returns an xml.XmlDocument. By default the parsing options ignore validation

@@ -4,8 +4,8 @@ package xml
 import "C"
 import (
 	"errors"
-	. "github.com/jbowtie/gokogiri/util"
 	"unsafe"
+	. "xml2jsonfeed/util"
 )
 
 type DocumentFragment struct {

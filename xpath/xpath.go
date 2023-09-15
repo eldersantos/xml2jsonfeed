@@ -40,10 +40,12 @@ int getXPathObjectType(xmlXPathObject* o) {
 */
 import "C"
 
-import "unsafe"
-import . "github.com/jbowtie/gokogiri/util"
-import "runtime"
-import "errors"
+import (
+	"errors"
+	"runtime"
+	"unsafe"
+	. "xml2jsonfeed/util"
+)
 
 type XPath struct {
 	ContextPtr *C.xmlXPathContext

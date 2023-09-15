@@ -12,8 +12,10 @@ unsigned long alloc_count = 0;
 
 #ifndef strdup
 char *strdup (const char *str) {
-	char *new = malloc(strlen(str));
-	strcpy(new, str);
+	char *new = malloc(strlen(str) + 1);
+	if (new) {
+		strcpy(new, str);
+	}	
 	return new;
 }
 #endif

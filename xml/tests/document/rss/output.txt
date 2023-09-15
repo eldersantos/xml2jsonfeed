@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+    <channel>
+        <title>NYT &gt; World &gt; Americas</title>
+        <link>https://www.nytimes.com/section/world/americas</link>
+        <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml" rel="self" type="application/rss+xml"/>
+        <description/>
+        <language>en-us</language>
+        <copyright>Copyright 2023 The New York Times Company</copyright>
+        <lastBuildDate>Fri, 15 Sep 2023 20:08:35 +0000</lastBuildDate>
+        <pubDate>Fri, 15 Sep 2023 20:00:32 +0000</pubDate>
+        <image>
+            <title>NYT &gt; World &gt; Americas</title>
+            <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+            <link>https://www.nytimes.com/section/world/americas</link>
+        </image>
+        <item>
+            <title>Fernando Botero, Artist of Whimsical Rotundity, Is Dead at 91</title>
+            <link>https://www.nytimes.com/2023/09/15/arts/fernando-botero-artist-of-whimsical-rotundity-is-dead-at-91.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/15/arts/fernando-botero-artist-of-whimsical-rotundity-is-dead-at-91.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/15/arts/fernando-botero-artist-of-whimsical-rotundity-is-dead-at-91.html" rel="standout"/>
+            <description>His voluptuous figures, both in paintings and in sculpture, portrayed the high and mighty as well as everyday people through an enlarging prism.</description>
+            <dc:creator>Stephen Kinzer</dc:creator>
+            <pubDate>Fri, 15 Sep 2023 19:32:38 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Botero, Fernando</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Sculpture</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/15/multimedia/15Botero-2-pltq/15Botero-2-pltq-moth.jpg" width="151"/>
+            <media:credit>Martin Bureau/Agence France-Presse</media:credit>
+            <media:description>The Colombian artist Fernando Botero at his studio in Paris in 2001.</media:description>
+        </item>
+        <item>
+            <title>Dominican Republic Will Close Border With Haiti Amid Water Dispute</title>
+            <link>https://www.nytimes.com/2023/09/14/world/americas/dominican-republic-haiti-border-water.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/14/world/americas/dominican-republic-haiti-border-water.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/14/world/americas/dominican-republic-haiti-border-water.html" rel="standout"/>
+            <description>The Dominican president said the military would enforce the measure on Friday morning. Experts warned the closure could deepen Haiti’s economic crisis.</description>
+            <dc:creator>Zolan Kanno-Youngs and Hogla Enecia Pérez</dc:creator>
+            <pubDate>Fri, 15 Sep 2023 01:38:48 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abinader, Luis (1967- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dominican Republic</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/14/multimedia/14haiti-dr-border-01-cvgq/14haiti-dr-border-01-cvgq-moth.jpg" width="151"/>
+            <media:credit>Erika Santelices/Agence France-Presse — Getty Images</media:credit>
+            <media:description>The border between the Dominican Republic and Haiti, as seen last year from Dajabón, Dominican Republic.</media:description>
+        </item>
+        <item>
+            <title>Hugo Blanco, Environmental Activist in Peru and Beyond, Dies at 88</title>
+            <link>https://www.nytimes.com/2023/09/14/world/americas/hugo-blanco-dead.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/14/world/americas/hugo-blanco-dead.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/14/world/americas/hugo-blanco-dead.html" rel="standout"/>
+            <description>He argued that global capitalism was at the root of the global ecological crisis, and he spent decades fighting for an alternative.</description>
+            <dc:creator>Clay Risen</dc:creator>
+            <pubDate>Thu, 14 Sep 2023 20:17:20 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Communism (Theory and Philosophy)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanco, Hugo (1934-2023)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trotsky, Leon</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/13/multimedia/00Blanco-1-zcgj/00Blanco-1-zcgj-moth.jpg" width="151"/>
+            <media:credit>Vincent/Gamma-Rapho, via Getty Images</media:credit>
+            <media:description>The Peruvian activist Hugo Blanco in 1979. He led marches against mines, rallied international support for the Amazon and organized efforts to expand autonomy for Indigenous people.</media:description>
+        </item>
+        <item>
+            <title>Politicians Charge Millions to Send Migrants to U.S. Through Darién Gap</title>
+            <link>https://www.nytimes.com/2023/09/14/world/americas/migrant-business-darien-gap.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/14/world/americas/migrant-business-darien-gap.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/14/world/americas/migrant-business-darien-gap.html" rel="standout"/>
+            <description>The Biden administration vowed to “end the illicit movement” of people through the Darién jungle. But the number of migrants moving through the forest has never been greater — and the profits are too big to pass up.</description>
+            <dc:creator>Julie Turkewitz and Federico Rios</dc:creator>
+            <pubDate>Fri, 15 Sep 2023 20:00:32 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Darien Gap</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/09/world/00darien-business-promo2/00darien-business-17-moth.jpg" width="151"/>
+            <media:credit>Federico Rios for The New York Times</media:credit>
+            <media:description>The journey into the jungle begins, led by a guide from the New Light Darién Foundation.</media:description>
+        </item>
+        <item>
+            <title>Tiny Homes Are a Social Media Hit. But Do We Want to Live in Them?</title>
+            <link>https://www.nytimes.com/2023/09/14/realestate/tiny-house-apartment-uk-nyc.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/14/realestate/tiny-house-apartment-uk-nyc.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/14/realestate/tiny-house-apartment-uk-nyc.html" rel="standout"/>
+            <description>Social media platforms are awash with videos of microapartments and tiny homes, amassing tens of millions of views. But do clicks translate into new occupants?</description>
+            <dc:creator>Farah Nayeri</dc:creator>
+            <pubDate>Thu, 14 Sep 2023 04:00:17 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+            <category domain="">tiny homes</category>
+            <category domain="">microapartment</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/05/multimedia/00Evolving-City-Micro-Apartments-05-qlzc/00Evolving-City-Micro-Apartments-05-qlzc-moth-v2.jpg" width="151"/>
+            <media:credit>Sam Bush for The New York Times</media:credit>
+            <media:description>A tiny house inside a dumpster in London, like other small spaces around the world, is a social media hit.</media:description>
+        </item>
+        <item>
+            <title>Ufologist Claims to Show Mummified Alien Specimens to Mexico's Congress</title>
+            <link>https://www.nytimes.com/2023/09/13/world/americas/alien-mummy-congress-mexico.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/13/world/americas/alien-mummy-congress-mexico.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/13/world/americas/alien-mummy-congress-mexico.html" rel="standout"/>
+            <description>A self-proclaimed ufologist showed members of Congress what he claimed were two mummified specimens of extraterrestrial beings. Experts scoffed.</description>
+            <dc:creator>Simon Romero</dc:creator>
+            <pubDate>Thu, 14 Sep 2023 14:35:28 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Extraterrestrial Life</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Mummies and Mummification</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Unidentified Flying Objects (UFO)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/13/multimedia/13mexico-extraterrestrial-fossil1-tgkb/13mexico-extraterrestrial-fossil1-tgkb-moth.jpg" width="151"/>
+            <media:credit>Mexico's Congress/Afp</media:credit>
+            <media:description>A handout picture shows what a researcher claims is the body of an extraterrestrial, being exhibited at the Mexican Congress, in Mexico City on Tuesday.</media:description>
+        </item>
+        <item>
+            <title>Peter C. Newman, 94, Journalist and Scourge of Canada’s Powerful, Dies</title>
+            <link>https://www.nytimes.com/2023/09/13/world/canada/peter-c-newman-dead.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/13/world/canada/peter-c-newman-dead.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/13/world/canada/peter-c-newman-dead.html" rel="standout"/>
+            <description>A historian as well, he challenged, with a muckraker’s spirit, the political and corporate establishment of a country he adopted after fleeing Nazi-occupied Europe.</description>
+            <dc:creator>Sam Roberts</dc:creator>
+            <pubDate>Thu, 14 Sep 2023 14:29:57 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newman, Peter C</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Maclean's Magazine</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Toronto Star</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/15/obituaries/12Newman1/12Newman1-moth.jpg" width="151"/>
+            <media:credit>Jeff Goode/Toronto Star, via Getty Images</media:credit>
+            <media:description>Peter C. Newman when he was editor of the Toronto-based Maclean’s magazine, a post he held from 1975 to 1982. He helped transform the publication into a vigorous and influential weekly.</media:description>
+        </item>
+        <item>
+            <title>The 50th Anniversary of the Chile Coup in Photos</title>
+            <link>https://www.nytimes.com/2023/09/11/world/americas/chile-coup-50-anniversary.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/11/world/americas/chile-coup-50-anniversary.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/11/world/americas/chile-coup-50-anniversary.html" rel="standout"/>
+            <description>Gen. Augusto Pinochet led the violent overthrow of the socialist government of Salvador Allende, seizing power for nearly 17 years. Here is a selection of photographs from the coup and its aftermath.</description>
+            <dc:creator>Pascale Bonnefoy</dc:creator>
+            <pubDate>Fri, 15 Sep 2023 03:57:50 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chile</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Allende, Salvador</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pinochet Ugarte, Augusto</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D'Etat and Attempted Coups D'Etat</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Operation Condor</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Project Democracy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/11/multimedia/11Chile-Photos-01-ktjg/11Chile-Photos-01-ktjg-moth.jpg" width="151"/>
+            <media:credit>Agence France-Presse — Getty Images</media:credit>
+            <media:description>Chilean Army troops firing on the La Moneda Palace in Santiago on Sept. 11, 1973, during a coup led by Gen. Augusto Pinochet against President Salvador Allende.</media:description>
+        </item>
+        <item>
+            <title>International Court Hears Island Nations’ Case on Climate Change</title>
+            <link>https://www.nytimes.com/2023/09/11/world/asia/island-nations-ocean-court-climate.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/11/world/asia/island-nations-ocean-court-climate.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/11/world/asia/island-nations-ocean-court-climate.html" rel="standout"/>
+            <description>A tribunal is expected to issue an advisory opinion on behalf of Pacific and Caribbean countries on whether greenhouse gases are pollutants that violate international law.</description>
+            <dc:creator>Marlise Simons</dc:creator>
+            <pubDate>Mon, 11 Sep 2023 14:34:36 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Tribunal for the Law of the Sea</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Browne, Gaston Alfonso</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antigua and Barbuda</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hamburg (Germany)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Islands</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Law of the Sea (UN Convention)</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/11/multimedia/11oceans-court-kpfg/11oceans-court-kpfg-moth.jpg" width="151"/>
+            <media:credit>Chandan Khanna/Agence France-Presse — Getty Images</media:credit>
+            <media:description>English Harbour in Antigua and Barbuda, a Caribbean country that has faced costly damage from hurricanes. </media:description>
+        </item>
+        <item>
+            <title>Will Rat-Infested 24 Sussex Drive Be Replaced?</title>
+            <link>https://www.nytimes.com/2023/09/09/world/canada/rat-infested-sussex.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/09/world/canada/rat-infested-sussex.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/09/world/canada/rat-infested-sussex.html" rel="standout"/>
+            <description>Leaked information suggests that security concerns may force officials to build a new house to replace 24 Sussex Drive, the derelict and abandoned official residence of Canada’s prime ministers.</description>
+            <dc:creator>Ian Austen</dc:creator>
+            <pubDate>Sat, 09 Sep 2023 10:00:02 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rodents</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rats</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBC/Radio-Canada</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Canada)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ottawa (Ontario)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trudeau, Justin</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/08/multimedia/08canadaletter-24river-bcmp/08canadaletter-24river-bcmp-moth.jpg" width="151"/>
+            <media:credit>Dave Chan for The New York Times</media:credit>
+            <media:description>Justin Trudeau did not move back to 24 Sussex Drive, his childhood home, when he became prime minister.</media:description>
+        </item>
+        <item>
+            <title>White House Urges Eligible Immigrants to Apply for Work Permits</title>
+            <link>https://www.nytimes.com/2023/09/08/us/politics/migrant-work-permits.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/08/us/politics/migrant-work-permits.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/08/us/politics/migrant-work-permits.html" rel="standout"/>
+            <description>The Biden administration is ramping up efforts to ensure that some migrants can quickly get jobs, in a bid to ease the spiraling political and financial costs of the crisis.</description>
+            <dc:creator>Michael D. Shear</dc:creator>
+            <pubDate>Fri, 08 Sep 2023 23:46:17 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/08/multimedia/08dc-immig-1-kbwg/08dc-immig-1-kbwg-moth.jpg" width="151"/>
+            <media:credit>Jeenah Moon for The New York Times</media:credit>
+            <media:description>Migrants waiting to be processed in a line outside the Roosevelt Hotel in Manhattan in August.</media:description>
+        </item>
+        <item>
+            <title>Cuba Arrests 17 People It Accuses of Recruiting for Russia’s War in Ukraine</title>
+            <link>https://www.nytimes.com/2023/09/08/world/americas/cuba-arrests-russia-ukraine-war.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/08/world/americas/cuba-arrests-russia-ukraine-war.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/08/world/americas/cuba-arrests-russia-ukraine-war.html" rel="standout"/>
+            <description>Cuba’s government says it is taking action against a “human trafficking network” that was trying to bring Cuban citizens into the Russian military.</description>
+            <dc:creator>Pablo Robles and Erin Mendell</dc:creator>
+            <pubDate>Fri, 08 Sep 2023 09:25:11 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/08/multimedia/08ukraine-briefing-cuba-1-tpcl/08ukraine-briefing-cuba-1-tpcl-moth.jpg" width="151"/>
+            <media:credit>Nicole Tung for The New York Times</media:credit>
+            <media:description>Destroyed Russian military vehicles in Izium, Ukraine, last year.</media:description>
+        </item>
+        <item>
+            <title>A Long Walk on Prince Edward Island</title>
+            <link>https://www.nytimes.com/2023/09/08/travel/prince-edward-island-hike.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/08/travel/prince-edward-island-hike.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/08/travel/prince-edward-island-hike.html" rel="standout"/>
+            <description>On Prince Edward Island, in eastern Canada, a writer finds her rhythm, along with equal parts solitude and camaraderie, as she treks from inn to inn on part of a new 435-mile trail.</description>
+            <dc:creator>Elaine Glusac</dc:creator>
+            <pubDate>Fri, 08 Sep 2023 09:01:45 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Walking</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Prince Edward Island (Canada)</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/06/multimedia/00PEI-gptl/00PEI-gptl-moth.jpg" width="151"/>
+            <media:credit>Carolina Andrade for The New York Times</media:credit>
+        </item>
+        <item>
+            <title>Hurricane Lee: What to Expect in Canada and New England</title>
+            <link>https://www.nytimes.com/2023/09/15/us/hurricane-lee-forecast.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/15/us/hurricane-lee-forecast.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/15/us/hurricane-lee-forecast.html" rel="standout"/>
+            <description>Tropical storm conditions are forecast for coastal New England on Friday afternoon before Lee’s expected landfall this weekend along the west end of Nova Scotia.</description>
+            <dc:creator>Judson Jones</dc:creator>
+            <pubDate>Fri, 15 Sep 2023 18:30:25 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bermuda</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf of Maine</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Martha's Vineyard (Mass)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nantucket (Mass)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southampton (NY)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nova Scotia (Canada)</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/10/07/multimedia/07wea-lee-dateless-2/07wea-lee-dateless-2-moth.jpg" width="151"/>
+            <media:credit>NOAA</media:credit>
+            <media:description>A satellite image showing Hurricane Lee off the East Coast on Wednesday.</media:description>
+        </item>
+        <item>
+            <title>Mexico’s Next President Will Be a Woman</title>
+            <link>https://www.nytimes.com/2023/09/06/world/americas/mexico-women-president-candidates.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/06/world/americas/mexico-women-president-candidates.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/06/world/americas/mexico-women-president-candidates.html" rel="standout"/>
+            <description>Mexico will elect its first woman as president next year after the governing party chose Claudia Sheinbaum to square off against the opposition’s candidate, Xóchitl Gálvez.</description>
+            <dc:creator>Emiliano Rodríguez Mega and Simon Romero</dc:creator>
+            <pubDate>Thu, 07 Sep 2023 17:29:27 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Morena (Mexican Political Party)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Galvez, Xochitl (1963- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Broad Front for Mexico (Political Organization)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Action Party (Mexico)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Institutional Revolutionary Party (Mexico)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/06/multimedia/00mexico-candidates-bzct/00mexico-candidates-bzct-moth.jpg" width="151"/>
+            <media:credit>Meghan Dhaliwal for The New York Times</media:credit>
+            <media:description>Claudia Sheinbaum in her office in 2020, when she served as the mayor of Mexico City.</media:description>
+        </item>
+        <item>
+            <title>Mexico’s Supreme Court Decriminalizes Abortion Nationwide</title>
+            <link>https://www.nytimes.com/2023/09/06/world/americas/mexico-abortion-decriminalize-supreme-court.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/06/world/americas/mexico-abortion-decriminalize-supreme-court.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/06/world/americas/mexico-abortion-decriminalize-supreme-court.html" rel="standout"/>
+            <description>The decision builds on an earlier high court ruling and reflects how Latin American countries are expanding women’s rights.</description>
+            <dc:creator>Simon Romero and Emiliano Rodríguez Mega</dc:creator>
+            <pubDate>Thu, 07 Sep 2023 00:54:03 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court of Mexico</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Women's Rights</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/06/multimedia/06mexico-abortion-hpmv/06mexico-abortion-hpmv-moth.jpg" width="151"/>
+            <media:credit>Marco Ugarte/Associated Press</media:credit>
+            <media:description>Women marching last year in Mexico City during a demonstration on International Safe Abortion Day.</media:description>
+        </item>
+        <item>
+            <title>After 3 Weeks of Wildfire Exile, Yellowknife Residents Return Home</title>
+            <link>https://www.nytimes.com/2023/09/06/world/canada/wildfire-yellowknife-evacuation-return.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/06/world/canada/wildfire-yellowknife-evacuation-return.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/06/world/canada/wildfire-yellowknife-evacuation-return.html" rel="standout"/>
+            <description>The residents of Yellowknife, the capital of the Northwest Territories of Canada, were ordered out last month when a wildfire came near their city.</description>
+            <dc:creator>Ian Austen</dc:creator>
+            <pubDate>Thu, 07 Sep 2023 01:34:15 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yellowknife (Northwest Territories)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/06/multimedia/06canada-return-tbvp/06canada-return-tbvp-moth.jpg" width="151"/>
+            <media:credit>Bill Braden/The Canadian Press, via Associated Press</media:credit>
+            <media:description>The Aurora Borealis glowed over evacuees from Yellowknife last month at a campsite in High Level, Alberta.</media:description>
+        </item>
+        <item>
+            <title>In Mexico, Drug Trade Flourished With the Help of the State</title>
+            <link>https://www.nytimes.com/2023/09/06/world/europe/interpreter-mexico-drug-trade.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/06/world/europe/interpreter-mexico-drug-trade.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/06/world/europe/interpreter-mexico-drug-trade.html" rel="standout"/>
+            <description>An article sheds light on a notorious cold case.</description>
+            <dc:creator>Amanda Taub</dc:creator>
+            <pubDate>Wed, 06 Sep 2023 19:16:40 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Guerreros Unidos (Gang)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Institutional Revolutionary Party (Mexico)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/06/multimedia/6InterpreterNL-Mexico-kjbp/6InterpreterNL-Mexico-kjbp-moth.jpg" width="151"/>
+            <media:credit>Luis Antonio Rojas for The New York Times</media:credit>
+            <media:description>Posters in Mexico City of some of the 43 students who were kidnapped in 2014 by the police and turned over to a cartel.</media:description>
+        </item>
+        <item>
+            <title>At Least 37 Dead After Flooding From Cyclone in Brazil</title>
+            <link>https://www.nytimes.com/2023/09/06/world/americas/brazil-cyclone-floods-rio-grande-do-sol.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/06/world/americas/brazil-cyclone-floods-rio-grande-do-sol.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/06/world/americas/brazil-cyclone-floods-rio-grande-do-sol.html" rel="standout"/>
+            <description>More than 3,500 people were displaced as towns flooded in the states of Rio Grande do Sul and Santa Catarina. Rains were forecast to continue.</description>
+            <dc:creator>John Yoon</dc:creator>
+            <pubDate>Thu, 07 Sep 2023 02:48:28 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Catarina (Brazil)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio Grande do Sul (Brazil)</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2023/09/06/multimedia/06brazil-storm-vkwh/06brazil-storm-vkwh-moth.jpg" width="151"/>
+            <media:credit>Mateus Bruxel/Agencia RBS, via Agence France-Presse — Getty Images</media:credit>
+            <media:description>Flooding in Muçum, Rio Grande do Sul State, Brazil, on Tuesday.</media:description>
+        </item>
+        <item>
+            <title>Ex-Colombian Soldier Is Set to Plead Guilty in Killing of President Jovenel Moïse of Haiti</title>
+            <link>https://www.nytimes.com/2023/09/05/world/americas/haiti-jovenel-moise-assassination-guilty-plea.html</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2023/09/05/world/americas/haiti-jovenel-moise-assassination-guilty-plea.html</guid>
+            <atom:link href="https://www.nytimes.com/2023/09/05/world/americas/haiti-jovenel-moise-assassination-guilty-plea.html" rel="standout"/>
+            <description>A former Colombian Army captain who is accused of playing a leading role in the 2021 killing will change his plea to guilty, a sign that he may testify against his co-defendants.</description>
+            <dc:creator>David C. Adams</dc:creator>
+            <pubDate>Tue, 05 Sep 2023 23:45:06 +0000</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moise, Jovenel (1968- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Port-au-Prince (Haiti)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rivera, German (Haiti Assassination)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+            <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/02/21/business/05haiti-guilty-01/21polkawards1-moth.jpg" width="151"/>
+            <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
+            <media:description>A mural depicting the assassinated president of Haiti, Jovenel Moïse, near the entrance to his home in Pétionville.</media:description>
+        </item>
+    </channel>
+</rss>

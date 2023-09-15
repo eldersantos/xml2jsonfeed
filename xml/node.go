@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"sync"
 	"unsafe"
+	"xml2jsonfeed/xpath"
 
-	. "github.com/jbowtie/gokogiri/util"
-	"github.com/jbowtie/gokogiri/xpath"
+	. "xml2jsonfeed/util"
 )
 
 var (
