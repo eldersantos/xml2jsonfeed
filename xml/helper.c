@@ -193,3 +193,16 @@ void xmlRemoveDefaultNamespace(xmlNode *node) {
 
     removeDefaultNamespace(node->ns, node);
 }
+
+void xmlPrintNodes(xmlNode *a_node)
+{
+    xmlNode *cur_node = NULL;
+
+    for (cur_node = a_node; cur_node; cur_node = cur_node->next) {
+        if (cur_node->type == XML_ELEMENT_NODE) {
+            printf("node type: Element, name: %s\n", cur_node->name);
+        }
+
+        xmlPrintNodes(cur_node->children);
+    }
+}

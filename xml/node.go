@@ -148,7 +148,7 @@ type Node interface {
 }
 
 //run out of memory
-var ErrTooLarge = errors.New("Output buffer too large")
+var ErrTooLarge = errors.New("output buffer too large")
 
 //pre-allocate a buffer for serializing the document
 const initialOutputBufferSize = 10 //100K

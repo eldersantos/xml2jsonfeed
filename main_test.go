@@ -59,6 +59,9 @@ func TestLoadAllNodes(t *testing.T) {
 		t.Error(err)
 	}
 	root := res.Root()
+
+	s := root.String()
+	t.Log(s)
 	f, err := root.Search("channel")
 	if err != nil {
 		t.Error(err)

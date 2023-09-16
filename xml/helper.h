@@ -15,6 +15,8 @@ xmlNode* xmlParseFragmentAsDoc(void *doc, void *buffer, int buffer_len, void *ur
 int xmlSaveNode(void *node, void *encoding, int options);
 void xmlRemoveDefaultNamespace(xmlNode *node);
 
+void xmlPrintNodes(xmlNode *node);
+
 void xmlSetContent(void *node, char *content);
 
 xmlDoc* newEmptyXmlDoc();
